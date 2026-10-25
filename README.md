@@ -2,8 +2,8 @@
 
 Bu proje, Flutter ve Material 3 kullanılarak hazırlanmış basit bir
 **Değerler Eğitimi** mobil uygulamasıdır. Uygulama, `NavigationBar`
-bileşeniyle üç bölüm arasında geçiş yapmayı öğretirken Ekim ayının
-değerleri olan **saygı, temizlik ve mahremiyet** konularını işler.
+bileşeniyle üç bölüm arasında geçiş yapmayı öğretirken
+**saygı, temizlik ve mahremiyet** konularını işler.
 
 ## Makale
 
@@ -148,9 +148,6 @@ anlatmak için kullanılabilir:
     oluşturmak.
 
 ## Lisans
-
-Bu depoda bir lisans dosyası belirtilmemişse, kodun kullanım ve dağıtım
-koşulları için depo sahibinden izin alınmalıdır.
 
 <img width="553" height="1109" alt="Ekran Resmi 2026-10-25 20 33 14" src="https://github.com/user-attachments/assets/c36595ec-b5b8-4d63-9e48-a83c30db1f2a" />
 <img width="553" height="1109" alt="Ekran Resmi 2026-10-25 20 33 18" src="https://github.com/user-attachments/assets/359b2024-4c62-49d8-a2e4-ca3695a7a9f3" />
